@@ -1,0 +1,22 @@
+{
+  "name": "torem",
+  "version": "1.0.0",
+  "description": "Torrent Media Streaming App",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shellord/torem.git"
+  },
+  "keywords": [
+    "torem"
+  ],
+  "author": "saheen shoukath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shellord/torem/issues"
+  },
+  "homepage": "https://github.com/shellord/torem"
+}
